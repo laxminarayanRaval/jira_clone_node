@@ -1,4 +1,4 @@
-
+# jira_clone_node
 ## Features
 
 - Proven, scalable, and easy to understand project structure
@@ -44,4 +44,3 @@ Not all components have properly defined [aria attributes](https://developer.moz
 
 Both Client and API are currently tested through [end-to-end Cypress tests](https://github.com/oldboyxx/jira_clone/tree/master/client/cypress/integration). That's good enough for a relatively simple application such as this, even if it was a real product. However, as the app grows in complexity, it might be wise to start writing additional unit/integration tests.
 
-# jira_clone_node
